@@ -6,17 +6,6 @@ I'm a developer focused on building modern websites, Discord bots, and web appli
 
 ---
 
-## 🚀 What I Do
-
-* 🌐 Web Development
-* 🤖 Discord Bots
-* ⚙️ Backend & APIs
-* 🎨 Frontend Development
-* 🔗 API Integrations
-* ☁️ Deployment & Hosting
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🧠 Languages
@@ -46,6 +35,9 @@ I'm a developer focused on building modern websites, Discord bots, and web appli
 <p>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/SolidJS-%232C4F7C.svg?style=for-the-badge&logo=solid&logoColor=white" alt="SolidJS">
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 
@@ -67,6 +59,8 @@ I'm a developer focused on building modern websites, Discord bots, and web appli
 
 ### ☁️ Cloud & Deployment
 <p>
+  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
@@ -80,6 +74,17 @@ I'm a developer focused on building modern websites, Discord bots, and web appli
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
+
+---
+
+## 🚀 What I Do
+
+* 🌐 Web Development
+* 🤖 Discord Bots
+* ⚙️ Backend & APIs
+* 🎨 Frontend Development
+* 🔗 API Integrations
+* ☁️ Deployment & Hosting
 
 ---
 
