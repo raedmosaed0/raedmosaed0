@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Raed
+# 👋 Hello, I'm Raed
 
 ### 💻 Web Developer
 
