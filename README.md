@@ -1,7 +1,10 @@
-<h1 align="center">👋 Hello, I'm Raed</h1>
-<h3 align="center">💻 Web Developer</h3>
+# 👋 Hello, I'm Raed
 
-<p align="center">
+
+
+### 💻 Web Developer
+
+
   I'm a developer focused on building modern websites, Discord bots, and web applications. I enjoy creating clean, fast, and useful projects while learning new technologies along the way.
 </p>
 
