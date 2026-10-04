@@ -9,6 +9,7 @@ I'm a developer focused on building modern websites, Discord bots, and web appli
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -21,6 +22,7 @@ I'm a developer focused on building modern websites, Discord bots, and web appli
 </p>
 
 ### Frontend
+
 <p>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
@@ -31,6 +33,7 @@ I'm a developer focused on building modern websites, Discord bots, and web appli
 </p>
 
 ### Backend
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=222222" alt="Firebase">
@@ -42,6 +45,7 @@ I'm a developer focused on building modern websites, Discord bots, and web appli
 </p>
 
 ### Database
+
 <p>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -51,6 +55,7 @@ I'm a developer focused on building modern websites, Discord bots, and web appli
 </p>
 
 ### Design Tools
+
 <p>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
@@ -60,6 +65,7 @@ I'm a developer focused on building modern websites, Discord bots, and web appli
 </p>
 
 ### Cloud & Deployment
+
 <p>
   <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
@@ -70,6 +76,7 @@ I'm a developer focused on building modern websites, Discord bots, and web appli
 </p>
 
 ### Tools
+
 <p>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -96,6 +103,9 @@ Check out my repositories below to see some of my projects and experiments.
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Socials:
 
-Feel free to reach out if you want to collaborate or build something together.
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?logo=external-link\&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:raedmosaed0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/raed-mosaed-304a27440)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://www.instagram.com/raed_tesla/)
