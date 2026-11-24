@@ -1,95 +1,54 @@
-# RAED MOSAED
-
-### Full-Stack Developer · Digital Product Builder
-
-Building digital experiences with clean code, thoughtful design, and powerful functionality.
+ <h1 align="center">RAED MOSAED</h1>
 
 <p align="center">
-  <a href="https://github.com/raedmosaed0">GitHub</a> •
-  <a href="https://github.com/amrix-eg">AMRIX</a> •
-  <a href="mailto:raedmosaed0@gmail.com">Email</a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge" /></a>
+  <a href="https://github.com/raedmosaed0"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/raed_mosaed"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:raedmosaed0@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## ABOUT ME
+### About Me
 
-I'm Raed Mosaed, a Full-Stack Developer passionate about building complete digital experiences — from intuitive user interfaces to powerful backend systems and databases.
+- **Full-Stack Developer and Founder & CEO of AMRIX** based in Egypt.
+- Specialized in building modern web applications, scalable backend systems, and interactive user interfaces.
+- Focused on full-stack solutions, REST APIs, database architecture, Discord bots, and automation.
+- **Core Competencies:**
+  - **Full-Stack Development:** Building responsive web platforms and complete applications.
+  - **Backend & API Development:** Developing RESTful services, server-side systems, and integrations.
+  - **Discord Bot Development:** Creating custom bots, moderation systems, and management dashboards.
+  - **Database Architecture:** Designing optimized database structures and efficient data management.
 
-- Full-Stack Developer with 3+ years of experience.
-- Founder & CEO of [AMRIX](https://github.com/amrix-eg).
-- Worked on 20+ projects.
-- Interested in web applications, APIs, Discord bots, and automation.
-
-## WHAT I DO
-
-- **Web Applications** — Modern, responsive websites and full-stack applications.
-- **Discord Bots** — Custom bots, moderation systems, and management dashboards.
-- **APIs & Backend** — REST APIs, databases, and server-side systems.
-- **Automation** — Custom tools, scripts, and workflow automation.
-
-## Tech Stack
-
-## Tech Stack
+### Tech Stack
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/php/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/assemblyscript/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/express/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/html5/111111" height="38" />
-<img src="https://devicons.io/devicons/font/css3.svg" width="38" height="38" alt="CSS3" />
-  <img src="https://cdn.simpleicons.org/cplusplus/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/react/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/npm/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/typescript/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/threedotjs/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/postgresql/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/redis/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/googlecloud/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/cloudflare/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/amazonaws/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/docker/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/gnubash/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/git/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/figma/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/blender/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/django/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/discord/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/mongodb/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/mysql/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/sqlite/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/linux/111111" height="38" />
-  <img src="https://cdn.simpleicons.org/vuedotjs/111111" height="38" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python&perline=6" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=cpp,react,nextjs,nodejs,express,vue&perline=6" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,threejs,django,mongodb,mysql,postgres&perline=6" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=sqlite,redis,firebase,supabase,aws,gcp&perline=6" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=cloudflare,docker,linux,bash,git,github&perline=6" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=figma,blender,discord&perline=6" />
 </p>
 
-**Also:** AmrixScript · SQL · REST APIs
+### GitHub Analytics
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raedmosaed0&show_icons=true&hide_border=true&theme=transparent" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=raedmosaed0&hide_border=true&theme=dark" />
+</p>
 
-## FEATURED PROJECTS
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raedmosaed0&layout=compact&hide_border=true&theme=transparent" />
+</p>
 
-- **[Impasto](https://impasto-beta.vercel.app/)** — Restaurant website.
-- **[Mr. Mohamed Abdul Azim](https://mohamed-abdulazim.vercel.app/)** — Personal portfolio.
-- **[Shady Ramzy](https://shady-ramzy.vercel.app/)** — Creator portfolio.
-- **[Mazen Eltourky](https://mazeneltourky.vercel.app/)** — Creator portfolio.
-- **[Cybersecurity Portfolio](https://cybersecurity-portfolio1.vercel.app/)** — Cybersecurity portfolio.
-
-[Explore all repositories](https://github.com/raedmosaed0?tab=repositories)
-
-## EXPERIENCE
-
-- **CEO — AMRIX** · Present
-- **Full-Stack Developer — Freelance** · 2024–Present
-- **Discord Bot Developer — Freelance** · 2023–2024
-- **Web Developer — Personal Projects** · 2022–2023
-
-## CONNECT WITH ME
-
-[GitHub](https://github.com/raedmosaed0) · [Instagram](https://instagram.com/raed_mosaed) · [TikTok](https://www.tiktok.com/@raed_mosaed) · [Email](mailto:raedmosaed0@gmail.com)
-
----
-
-<p align="center"><i>"I build ideas into digital experiences."</i></p>
-<p align="center">© Raed Mosaed</p>
+<p align="center">
+  <a href="mailto:raedmosaed0@gmail.com">
+    <img src="https://img.shields.io/badge/START_A_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
