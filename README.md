@@ -1,111 +1,95 @@
-# 👋 Hello, I'm Raed
+# RAED MOSAED
 
-### 💻 Web Developer
+### Full-Stack Developer · Digital Product Builder
 
-I'm a developer focused on building modern websites, Discord bots, and web applications. I enjoy creating clean, fast, and useful projects while learning new technologies along the way.
+Building digital experiences with clean code, thoughtful design, and powerful functionality.
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
-  <img src="https://img.shields.io/badge/SolidJS-%232C4F7C.svg?style=for-the-badge&logo=solid&logoColor=white" alt="SolidJS">
-  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-</p>
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=222222" alt="Firebase">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js">
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
-</p>
-
-### Database
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-</p>
-
-### Design Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
-  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
-</p>
-
-### Cloud & Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+<p align="center">
+  <a href="https://github.com/raedmosaed0">GitHub</a> •
+  <a href="https://github.com/amrix-eg">AMRIX</a> •
+  <a href="mailto:raedmosaed0@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🚀 What I Do
+## ABOUT ME
 
-* 🌐 Web Development
-* 🤖 Discord Bots
-* ⚙️ Backend & APIs
-* 🎨 Frontend Development
-* 🔗 API Integrations
-* ☁️ Deployment & Hosting
+I'm Raed Mosaed, a Full-Stack Developer passionate about building complete digital experiences — from intuitive user interfaces to powerful backend systems and databases.
+
+- Full-Stack Developer with 3+ years of experience.
+- Founder & CEO of [AMRIX](https://github.com/amrix-eg).
+- Worked on 20+ projects.
+- Interested in web applications, APIs, Discord bots, and automation.
+
+## WHAT I DO
+
+- **Web Applications** — Modern, responsive websites and full-stack applications.
+- **Discord Bots** — Custom bots, moderation systems, and management dashboards.
+- **APIs & Backend** — REST APIs, databases, and server-side systems.
+- **Automation** — Custom tools, scripts, and workflow automation.
+
+## Tech Stack
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/php/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/assemblyscript/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/express/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/html5/111111" height="38" />
+<img src="https://devicons.io/devicons/font/css3.svg" width="38" height="38" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/cplusplus/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/react/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/npm/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/typescript/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/threedotjs/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/postgresql/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/redis/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/googlecloud/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/cloudflare/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/amazonaws/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/docker/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/gnubash/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/git/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/figma/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/blender/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/django/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/discord/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/mongodb/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/mysql/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/sqlite/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/linux/111111" height="38" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/111111" height="38" />
+</p>
+
+**Also:** AmrixScript · SQL · REST APIs
+
+
+## FEATURED PROJECTS
+
+- **[Impasto](https://impasto-beta.vercel.app/)** — Restaurant website.
+- **[Mr. Mohamed Abdul Azim](https://mohamed-abdulazim.vercel.app/)** — Personal portfolio.
+- **[Shady Ramzy](https://shady-ramzy.vercel.app/)** — Creator portfolio.
+- **[Mazen Eltourky](https://mazeneltourky.vercel.app/)** — Creator portfolio.
+- **[Cybersecurity Portfolio](https://cybersecurity-portfolio1.vercel.app/)** — Cybersecurity portfolio.
+
+[Explore all repositories](https://github.com/raedmosaed0?tab=repositories)
+
+## EXPERIENCE
+
+- **CEO — AMRIX** · Present
+- **Full-Stack Developer — Freelance** · 2024–Present
+- **Discord Bot Developer — Freelance** · 2023–2024
+- **Web Developer — Personal Projects** · 2022–2023
+
+## CONNECT WITH ME
+
+[GitHub](https://github.com/raedmosaed0) · [Instagram](https://instagram.com/raed_mosaed) · [TikTok](https://www.tiktok.com/@raed_mosaed) · [Email](mailto:raedmosaed0@gmail.com)
 
 ---
 
-## 📌 Featured Projects
-
-Check out my repositories below to see some of my projects and experiments.
-
----
-
-## 🌐 Socials:
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?logo=external-link\&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:raedmosaed0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/raed-mosaed-304a27440)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://www.instagram.com/raed_tesla/)
+<p align="center"><i>"I build ideas into digital experiences."</i></p>
+<p align="center">© Raed Mosaed</p>
