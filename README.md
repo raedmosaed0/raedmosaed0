@@ -1,4 +1,6 @@
- <h1 align="center">RAED MOSAED</h1>
+<p align="center">
+<img src="https://mark.sylphx.com/api/v1/mark/hero.svg?text=Raed+Mosaed&amp;theme=mono&amp;animation=fade" alt="Raed Mosaed" />
+</p>
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge" /></a>
