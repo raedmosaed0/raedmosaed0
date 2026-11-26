@@ -30,4 +30,4 @@
 ![](https://streak-stats.demolab.com/?user=raedmosaed0&theme=dark&hide_border=false&background=151515&border=373737&ring=FFFFFF&fire=79FF97&currStreakLabel=FFFFFF&currStreakNum=D4D4D4&sideNums=D4D4D4&sideLabels=D4D4D4&dates=D4D4D4&stroke=FFFFFF)<br/>
 
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31hnv2ufcutbgjtdkejxmk4ngpie&count=4&width=380&radius=21&header=0&logo=0&avatar=0&progress=0&username=off&artist_color=b6c1ce&meta_color=b6c1ce&accent_color=11c04e)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31hnv2ufcutbgjtdkejxmk4ngpie&count=4&width=380&radius=17&header=0&logo=0&avatar=0&progress=0&username=off&bg_color=111418&artist_color=b6c1ce&meta_color=b6c1ce&accent_color=6cea87)
