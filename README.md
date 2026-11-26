@@ -29,3 +29,4 @@
 ![](https://streak-stats.demolab.com/?user=raedmosaed0&theme=graywhite&hide_border=false&background=FFFFFF&border=000000)<br/>
 
 
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31hnv2ufcutbgjtdkejxmk4ngpie&count=4&width=380&radius=21&header=0&logo=0&avatar=0&progress=0&username=off&artist_color=b6c1ce&meta_color=b6c1ce&accent_color=11c04e)
