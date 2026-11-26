@@ -26,22 +26,8 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=raedmosaed0&theme=dark&hide_border=false&bg_color=151515&border_color=373737&title_color=FFFFFF&text_color=9F9F9F&icon_color=79FF97&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=raedmosaed0&theme=dark&hide_border=false&background=151515&border=373737&ring=FFFFFF&fire=79FF97&currStreakLabel=FFFFFF&currStreakNum=9F9F9F&sideNums=9F9F9F&sideLabels=9F9F9F&dates=9F9F9F&stroke=FFFFFF)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=raedmosaed0&theme=dark&hide_border=false&bg_color=151515&border_color=373737&title_color=FFFFFF&text_color=9F9F9F&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=raedmosaed0&theme=dark&hide_border=false&bg_color=151515&border_color=373737&title_color=FFFFFF&text_color=D4D4D4&icon_color=79FF97&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=raedmosaed0&theme=dark&hide_border=false&background=151515&border=373737&ring=FFFFFF&fire=79FF97&currStreakLabel=FFFFFF&currStreakNum=D4D4D4&sideNums=D4D4D4&sideLabels=D4D4D4&dates=D4D4D4&stroke=FFFFFF)<br/>
 
----
-
-[![](https://komarev.com/ghpvc/?username=raedmosaed0&icon=0&color=79FF97)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![](https://komarev.com/ghpvc/?username=raedmosaed0&icon=0&color=79FF97)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![](https://komarev.com/ghpvc/?username=raedmosaed0&icon=0&color=79FF97)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31hnv2ufcutbgjtdkejxmk4ngpie&count=4&width=380&radius=21&header=0&logo=0&avatar=0&progress=0&username=off&artist_color=b6c1ce&meta_color=b6c1ce&accent_color=11c04e)
